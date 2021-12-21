@@ -4,7 +4,7 @@ variable "ingress_rules" {
     "from_port"   = 8080
     "to_port"     = 8080
     "protocol"    = "tcp"
-    "cidr_blocks" = ["160.238.75.252/32"]
+    "cidr_blocks" = ["27.59.252.52/32"]
   }
 }
 
